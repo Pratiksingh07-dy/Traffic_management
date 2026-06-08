@@ -151,7 +151,7 @@ Then open `http://localhost:8501` in your browser, upload videos for each lane, 
 | Name | Role |
 |------|------|
 | Pratik Singh | Idea, Backend Logic, Integration |
-| [Apoorva Patil] | [Frontend, Testing, documentation & research support ] |
+| Apoorva Patil | Frontend, Testing, documentation & research support |
 
 ---
 
